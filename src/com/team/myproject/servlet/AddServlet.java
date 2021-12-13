@@ -1,6 +1,5 @@
 package com.team.myproject.servlet;
 
-import com.team.myproject.entity.Card;
 import com.team.myproject.entity.User;
 import com.team.myproject.service.UserService;
 import com.team.myproject.service.impl.UserServiceimpl;
